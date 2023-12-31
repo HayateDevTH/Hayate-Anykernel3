@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=4.9.200-halal-v10+
+kernel.string=Hayate-G2
 do.devicecheck=0
 do.modules=0
 do.systemless=1
