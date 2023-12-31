@@ -472,8 +472,6 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "---------------------------------------";
-ui_print "| @ItzKaguya - Kernel source";
-ui_print "| @rsuntk - Kernel builder";
 ui_print "| @HayateDevTH - AnyKernel3 script";
 ui_print "---------------------------------------";
 KERNEL_STRING="$(file_getprop anykernel.sh kernel.string)";
